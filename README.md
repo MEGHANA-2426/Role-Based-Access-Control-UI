@@ -1,25 +1,19 @@
-![](https://cdn-images-1.medium.com/max/1600/1*QlkpHjL9Cn-kiQXap1sweA.jpeg)
+![](https://www.strongdm.com/hubfs/21126185/6194041b30aa0c3af21d6e0e_rbac-role-based-access-control.svg)
 
-## Links
-[Demo App](https://umair-khanzada.github.io/role-based-access-control/) 
-<br />
-[Medium Story Version-2](https://medium.com/@umairkz52/role-based-authorization-role-based-access-control-v-2-in-react-js-cb958e338f4b)
-
-
-## Description
-The idea is, simply prevent the app to generate unnecessary routes, rather checking current user role on each route it is great to generate only the routes that user have access.
+## OVERVIEW
+Optimize route generation by only displaying routes the user can access, based on their roles, and perform the access check once when the parent route is rendered.
 
 ## Benefits
-- Check route access only once when parent route renders
-- Generate only routes that user have access
-- Central roles and private routes configuration file
-- Easy to add/remove a role
-- Easy to add/remove route access from user role
-- Synchronization between  routes and navigation
-- Single + Multiple role support
+- Efficient role-based route access check.
+- Dynamically generate accessible routes.
+- Centralized role and route management.
+- Easy role and route access management.
+- Sync between routes and navigation.
+- Supports single and multiple roles.
 
-## TODO
-- Design same approach for components 
+## NEXT STEPS
+- Implement similar access control for components. 
 "# Role-Based-Access-Control-UI" 
 "# Role-Based-Access-Control-UI" 
 "# Role-Based-Access-Control-UI" 
+
